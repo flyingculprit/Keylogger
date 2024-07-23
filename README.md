@@ -30,7 +30,12 @@ Run on terminal or vs code or any Python environment
 ```bash
   python Keylogger.py
 ```
-
+```bash
+  If you want to share then use the logger.exe file Inside the dist
+```
+```bash
+  To run on background, which cannot be find by the target, use the open.vbs
+```
 
 ## Features
 
